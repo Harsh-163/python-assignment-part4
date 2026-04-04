@@ -43,5 +43,5 @@ This module focuses on **Exploratory Data Analysis (EDA)**, **Statistical Visual
 ---
 
 ## 👤 Author
-**Harsh Shrivastav** 
+**Harshwardhan Srivastava** 
 *Bitsom Assignment*
